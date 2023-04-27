@@ -60,3 +60,13 @@
 
 <br>
 
+![스크린샷 2023-04-27 오전 10 28 03](https://user-images.githubusercontent.com/81137234/234736693-5a04860c-763c-47fe-a3dc-b513d432f66d.png)
+
+<br>
+
+결론적으로 학생, 성적, 과목을 나타내기 위해서 위처럼 ERD를 작성할 수 있다.
+
+참고로 테이블 이름은 아래와 같다.  
+SchoolGrade는 학년  
+OpenLecture는 강의목록  
+SchoolClass는 반  
